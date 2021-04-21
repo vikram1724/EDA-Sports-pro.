@@ -1,0 +1,17 @@
+
+.ipynb_checkpoints/
+.idea/
+*.pyc
+
+*.db
+*.db-journal
+*.csv
+links.txt
+*.py___jb_old___
+
+*debug.ipynb
+
+report/
+log/
+model/
+analysis/predictive/rmse_chart.ipynb
